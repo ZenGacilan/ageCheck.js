@@ -12,4 +12,4 @@ function checkAge() {
   }
 }
 
-checkAge();
+checkAge(20);
